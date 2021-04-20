@@ -2,6 +2,7 @@
 
 ### Project Link: http://binarybeastmailbomber.herokuapp.com/
 
+![RaihanEXE99](https://raw.githubusercontent.com/RaihanEXE99/BINARYBEAST-MAIL-BOMBER/main/SS.png)
   
 
 ### What is Mail Bomber?
@@ -32,4 +33,4 @@ So only the default server 👾
 
 Bcz this server running on Heroku (free tier) so no SSL, which means, emails may go to your spam box :3
 
-![RaihanEXE99](https://raw.githubusercontent.com/RaihanEXE99/BINARYBEAST-MAIL-BOMBER/main/SS.png)
+
