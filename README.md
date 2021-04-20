@@ -14,7 +14,7 @@ An email bomb or "mail bomb" is a malicious act in which a large number of [emai
 
   
 
- - 🐱‍💻Added Terminal design to give you hacker man feel XD
+ - 🐱‍💻Added Terminal design to give you hacker man vibe XD
 
 - ✨ With Among us background sound effect when you start an attack
 
