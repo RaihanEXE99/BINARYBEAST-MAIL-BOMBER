@@ -27,7 +27,7 @@ An email bomb or "mail bomb" is a malicious act in which a large number of [emai
 
 So only the default server 👾
 
-- - *However, default servers have many limitations*
+- - *However, default servers has many limitations*
 
   
 
