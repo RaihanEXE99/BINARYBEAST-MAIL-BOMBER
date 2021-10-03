@@ -6,7 +6,6 @@
   
 
 ### What is Mail Bomber?
-
 An email bomb or "mail bomb" is a malicious act in which a large number of [email](https://techterms.com/definition/email) messages are sent to a single email address in a short period. The purpose of an email bomb is typical to overflow a user's [inbox](https://techterms.com/definition/inbox).
 
   
@@ -25,7 +24,7 @@ An email bomb or "mail bomb" is a malicious act in which a large number of [emai
 
   
 
-So only default server 👾
+So only default* server 👾
 
   
 
